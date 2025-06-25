@@ -1,0 +1,15 @@
+video indexer
+face recgonition, ocr,speech,sentimental 
+Azure Storage Accountantbinary data can be stored , object
+Flag hierachiesystem
+endpoint and name
+db endpoint, user, password
+sentimental analysis 
+AI Language Service(Key phrase extraction, Sentimental Analysis emotions we can say
+PLL Persional Identify Indication)
+Document IntelligenceComputer Vision Service
+Form recognizer 
+
+
+
+

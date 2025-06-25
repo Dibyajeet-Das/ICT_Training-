@@ -1,0 +1,30 @@
+Translating text (Service by name the translator)
+by giving the data
+word Alignment
+Sentence Length
+Profanity Filtering
+Creating a Language understanding model with the language service
+(what is embending and completion)
+whisper is created for vision problem people
+ 
+ids we gi
+ai search anf block std 
+customization feature
+tcs takes government
+slwYS WORK WITHELIST PREFERSNCE
+this think put redtrication where bo can
+find teaming open ai
+rag concept search, check the behaviour of the model in bakend
+each tag has its own memory.
+multi model (Combination of two tags)
+we can define the system rome and use sdk and use it
+prompt engineering restructuring the prompt 
+grounding data exact information, pointing 
+cues starting point where compilition builds
+define the way we response 
+System message defination
+deep seek model is popular for ( chain of thought )
+Prompt Engineering
+ 
+
+ 

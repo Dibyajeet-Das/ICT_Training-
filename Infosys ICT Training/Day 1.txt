@@ -1,0 +1,46 @@
+iaas, paas, saas
+iaas we are using and resposbile for the maintenancepaas we use it in  our own way 
+saas only use it 
+
+are the part of cloud
+
+
+capital and operational expententure
+high               less
+Capex     Opex(The more we consume the more we have to pay)
+
+saas dont used by it company put they use iaas and paas
+
+for hosting a website 
+by a server
+by a domain
+developing code
+database server/ virtual server
+define credential
+admin setup
+os setup
+mapping the website with the domain
+look into the security
+backup
+
+Operational data payment
+load Balancethe movement we create the service we have to pay for it the more
+we use the more we have to pay simply start consuming.
+compute engine
+
+
+-----------------------------------------------------------------------------
+
+Fairness 
+reliable
+privacy and security 
+Transparencyaccountability 
+SEO(Search Engine Optimization)quarales or bots use to increse in ranking of a website
+deeplearning
+Neural Network
+
+Azure
+virtualization
+subscription 
+ai102
+

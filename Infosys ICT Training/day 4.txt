@@ -1,0 +1,31 @@
+AI Search
+event hub
+iot hub
+node connectivity
+router can help to detect the persons through signals
+https://github.com/MicrosoftLearning/mslearn-ai-services
+multi service account
+nlp (QNA) every think is predefined
+Azure AI Vision
+Analyze Images
+
+https://github.com/MicrosoftLearning/mslearn-ai-vision
+pip install azure-ai-vision-imageanalysis==1.0.0b3
+
+https://dtcdelhinotes001.blob.core.windows.net/ai102/share.txt
+
+Student Access to Labs 
+
+Training Key: 3BD720671D884DB0
+https://msle.learnondemand.net
+
+Student Access to Labs 
+
+*Training Key: 51585A7D8AD5446D
+ 
+
+Key 01: c0RmX7LRYIHrAwiG7ouF3dEgE7jCK6XnGtoYqlTCLZ5ivL2o4M9gJQQJ99BAACYeBjFXJ3w3AAAEACOGZ2FY
+
+Key 02: 8b6bBsxB70huMDxY1ktVrICHNoVsHtxWMNoQ6b7zObtvqvuPMDRLJQQJ99BAACYeBjFXJ3w3AAAEACOGLtwe
+
+Endpoint: https://dtcdelhiai001.cognitiveservices.azure.com/

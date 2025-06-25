@@ -1,0 +1,32 @@
+Automation 
+potal.azure.com portal
+databoxes use to store large amount of data
+run internal appplication or to host the weebsite we use vm
+predefine how much power is being needed to 33389 code we need to use to create
+We are not working with GUI we use CLD preferd application Linux
+consumes less ram and faster CLI
+servers are shout down the server to save money
+ip adress are individual resources one ip address is one Vm
+ai 102 
+IAC infra engineers write code to create infrastructure
+Dev-> Test - > QA -> Production(accessible to every one) it is live environment 
+other are temporary environment created and then destroyed
+Ci/Cd Pipeline Tera form Infrastructure tool in automation
+Paas Services (Server less services)
+
+
+password
+jklbnm1234@Q
+
+https://labclient.labondemand.com/LabClient/6ce76663-193d-480d-aad2-61daaa5c3f31
+
+content vision 
+Azure Ai Vision Service
+custom vision service
+computer vision service
+embedding creating an analysis
+caption
+and dense caption
+OCR optical character recgnition computer vision used for images
+document trecgnition
+

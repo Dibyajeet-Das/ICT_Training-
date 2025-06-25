@@ -1,0 +1,27 @@
+If you want to learn React without going through every JavaScript topic, focus only on the most essential concepts. Here's a priority list of what you must learn:
+
+JavaScript Essentials for React
+ES6+ Syntax (Modern JavaScript)
+
+let & const (Block-scoped variables)
+Arrow functions (()=>{})
+Template literals (`Hello ${name}`)
+Destructuring (const {name} = obj)
+Spread (...), Rest (...args) operators
+Default parameters (function sum(a=0, b=0) {})
+Functions & Callbacks
+
+Function expressions (const add = (a, b) => a + b;)
+Higher-order functions (map, filter, reduce)
+Objects & Arrays
+
+Array methods (map, filter, find, reduce)
+Object manipulation (const newObj = {...oldObj, newKey: 'value'})
+Modules & Import/Export
+
+export default Component;
+import Component from './Component';
+Asynchronous JavaScript
+
+Promises (fetch().then().catch())
+async/await (const data = await fetch(url))

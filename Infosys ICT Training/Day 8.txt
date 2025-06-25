@@ -1,0 +1,9 @@
+Language resource
+Custom Section/QNA/Classifications
+QNA Chat boot service
+testing and publishing the qnas
+intents and utterances(what user ask, what are the possibility)
+entity can be anythink Pre Built entity , Quantities, date time, email, url
+by default we use utterance are equvalent to the prompt
+the training data have the more confidence the system will become 
+
